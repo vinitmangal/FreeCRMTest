@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="0" passed="0">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Free CRM Application Automation Test Suites" duration-ms="10" started-at="2018-10-17T04:35:37Z" finished-at="2018-10-17T04:35:37Z">
+    <groups>
+    </groups>
+    <test name="Free CRM APP Test Cases" duration-ms="10" started-at="2018-10-17T04:35:37Z" finished-at="2018-10-17T04:35:37Z">
+    </test> <!-- Free CRM APP Test Cases -->
+  </suite> <!-- Free CRM Application Automation Test Suites -->
+</testng-results>
